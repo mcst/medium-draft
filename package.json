@@ -78,7 +78,7 @@
     "webpack-dev-server": "^2.2.0"
   },
   "bugs": {
-    "url": "https://github.com/brijeshb42/medium-draft/issues"
+    "url": "https://github.com/mcst/medium-draft/issues"
   },
   "homepage": "http://bitwiser.in/medium-draft/"
 }
